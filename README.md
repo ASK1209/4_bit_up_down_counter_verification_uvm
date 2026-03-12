@@ -212,7 +212,7 @@ Count   coverage    = 100.00 %
 ## Related Project
 
 This project is a UVM upgrade of an earlier SVTB-based verification of the same DUT:
-- (#https://github.com/ASK1209/4_bit_up_down_counter_verification_svtb) 
+- https://github.com/ASK1209/4_bit_up_down_counter_verification_svtb 
 
 ---
 ## 👩‍💻 Author
